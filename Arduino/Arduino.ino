@@ -132,9 +132,7 @@ void loop()
 }
 
 /*
- * Param 'int type' -> tell if the variable is an integer (type==0) or a string (type==1)
- *
- *
+ * @param  type  tell if the variable is an integer (type==0) or a string (type==1)
  */
 void read_socket_data(int type)
 {
