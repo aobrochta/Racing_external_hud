@@ -48,5 +48,8 @@ Now you need to launch the server software that will communicate with your ardui
 
 You only need to start the .exe file of the game of your choice. Now start the game and enjoy :)
 
+### Open source
+
+All files have a compiled and an open source version so you can modify them as you want
 
 
