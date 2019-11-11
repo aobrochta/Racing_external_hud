@@ -8,6 +8,7 @@ Project that show the real Audi GT3 display in a nextion display with arduino fo
 
 * RaceRoom Racing Experience
 * Assetto corsa competizione
+* (Can be easly extend to other games)
 
 ### Needed hardware and software
 

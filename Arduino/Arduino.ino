@@ -5,17 +5,21 @@
 #define INTEGER 0
 #define STRING 1
 
+byte mac_addr[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
+
+/* --- Configuration Section --- */
 
 // Network credentials
 const char *ssid = ""; //Put here your SSID
 const char *password = ""; //Put here your password
-byte mac_addr[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
-
-//Wifi configuration
-WiFiClient client;
 
 //Server information
 byte server_ip[] = {192, 168, 1, 30};
+
+/* End Configuration Section */
+
+//Wifi configuration
+WiFiClient client;
 
 void setup() {
   //Serial.begin(115200);
