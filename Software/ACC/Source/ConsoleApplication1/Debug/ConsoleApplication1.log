@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SharedMemoryExample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  ACC.cpp
+C:\Users\Utilisateur\Pictures\test_esp32\project\acc\SharedMemoryACCS\ConsoleApplication1\ACC.cpp(300,24): warning C4477: 'sprintf_s' : la chaîne de format '%.1f' nécessite un argument de type 'double', mais l'argument variadique 1 est de type 'int'
+  ConsoleApplication1.vcxproj -> C:\Users\Utilisateur\Pictures\test_esp32\project\acc\SharedMemoryACCS\Debug\Assetto corsa competizione.exe
