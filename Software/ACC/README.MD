@@ -1,3 +1,3 @@
 ## Info
 
-Source was compiled with Visual Studio Community 2019
+Compiled with Visual Studio Community 2019
